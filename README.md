@@ -19,4 +19,5 @@ KernelSU用户：
 ⦁	清理com.tencent.soter.soterserver应用数据
 ⦁	重新启动vendor.soter服务
 ⦁	修复解锁bl导致SOTER Key假死的问题（可逆，卸载模块后无任何影响）
-! [Image text] ()
+
+![Screenshot_2025-10-13-23-28-53-91_40dbc481ca5b738a325e5182fc08a331](https://github.com/user-attachments/assets/03d2af91-b4b0-4bbe-a422-363d34af9447)
