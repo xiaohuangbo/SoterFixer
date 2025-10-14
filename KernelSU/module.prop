@@ -1,0 +1,7 @@
+id=SoterFix
+name=Soter Key Fixer
+version=1.0
+versionCode=1
+author=酷安@小黄泊
+description=修复SOTER Key问题，开机后自动执行修复脚本
+supported=KernelSU
