@@ -9,11 +9,11 @@ SOTER Key修复模块 - 一加通用版 酷安@小黄泊
 请根据您使用的root方案选择对应的模块安装：
 Magisk用户：
 
-⦁	在Magisk App中安装 Magisk/module.prop 目录
+⦁	在Magisk App中安装 Magisk/module.prop 目录或直接输入.zip文件
 
 KernelSU用户：
 
-⦁	在KernelSU App中安装 KernelSU/module.prop 目录
+⦁	在KernelSU App中安装 KernelSU/module.prop 目录或直接刷入.zip文件
 
 模块功能：
 ⦁	开机后自动执行SOTER Key修复脚本
