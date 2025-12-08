@@ -3,7 +3,7 @@
 
 ui_print "******************************"
 ui_print "SOTER Key修复模块 - 通用版"
-ui_print "版本: 1.0 正式版"
+ui_print "版本: 1.2 正式版"
 ui_print "作者: 酷安福瑞@小黄泊 ต (=ω=)ต" 
 ui_print "支持: Magisk & KernelSU"
 ui_print "******************************"

@@ -4,7 +4,7 @@
 until [ "$(getprop sys.boot_completed)" = "1" ]; do
     sleep 5
 done
-setenforce 0
+#setenforce 0 新版sukisu中禁止了SElinux宽容
 # 计算开始时间
 START_TIME=$(date +%s)
 END_TIME=$((START_TIME + 300))  # 5分钟 = 300秒
@@ -20,5 +20,5 @@ while [ $(date +%s) -lt $END_TIME ]; do
     
     # 每5秒执行一次（总共执行约60次）
     sleep 3
-setenforce 1
+#setenforce 1 新版sukisu中禁止了SElinux宽容
 done
